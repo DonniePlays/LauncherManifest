@@ -1,0 +1,2 @@
+# LauncherManifest
+Launcher version manifest
